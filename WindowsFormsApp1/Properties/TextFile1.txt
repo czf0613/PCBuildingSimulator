@@ -1,0 +1,5 @@
+conn = ///
+reco.open("SELECT * FROM Student);
+reco("Name") =  "ASDSDA"
+msgbox(reco("Score"))
+reco.MoveNex t()
